@@ -1,2 +1,2 @@
-# Background-change
-Change background by mouse using vsc .(arguments and map function)
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
